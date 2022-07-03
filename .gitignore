@@ -1,0 +1,10 @@
+vendor/*
+node_modules/*
+tmp/*
+documentation/*
+tests/e2e/node_modules/*
+composer.lock
+cypress.json
+.idea/*
+lwdonation/*
+lwdonation.zip

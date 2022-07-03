@@ -1,0 +1,19 @@
+{
+  "name": "panduan",
+  "version": "0.0.1",
+  "description": "panduan lokuswp",
+  "main": "index.js",
+  "authors": {
+    "name": "lokuswp",
+    "email": "hi@lokuswp.id"
+  },
+  "repository": "panduan/panduan",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
