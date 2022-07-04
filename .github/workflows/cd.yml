@@ -5,10 +5,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Checkout
-      uses: actions/checkout@master
+      uses: actions/checkout@v1
 
     - name: Build and Deploy
       uses: jenkey2011/vuepress-deploy@master
       env:
         BUILD_SCRIPT: yarn && yarn build
-        BUILD_DIR: build/.vuepress/dist/
+        BUILD_DIR: src/.vuepress/dist/
+
+    - name: Deploy to Production
+      uses: sebastianpopp/git-ftp-action@releases/v3
+      with:
+        url: "ftp://${{ secrets.FTP_HOST }}/webroot/ROOT/panduan/"
+        user: ${{ secrets.FTP_USERNAME }}
+        password: ${{ secrets.FTP_PASSWORD }}
