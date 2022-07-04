@@ -29,4 +29,4 @@ jobs:
           server: "ftp://${{ secrets.FTP_HOST }}/webroot/ROOT/panduan/"
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: ./src/.vuepress/dist
+          local-dir: ./src/.vuepress/dist/
