@@ -1,4 +1,4 @@
 
-# Cara Mengatur Bank Transfer Custom
+# Mengatur Pembayaran Bank BCA
 
- <Badge text="Goal"/> Dengan Integrasi ini Situs anda dapat menerima pembayaran melalui xendit dan dapat terkonfirmasi secara otomatis.
+ <Badge text="Goal"/> Dengan metode ini, anda dapat menerima pembayaran melalui transfer bank apapun, sesuai dengan yang anda atur.

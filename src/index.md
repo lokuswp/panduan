@@ -1,15 +1,15 @@
 ---
 home: true
-heroImage: https://v1.vuepress.vuejs.org/hero.png
-tagline: Panduan Plugin LokusWP
+heroImage: https://lokuswp.id/wp-content/uploads/2022/04/lokuswp-group-1.png
+tagline: Plugin LokusWP Serta Integrasinya
 actionText: Mulai Pelajari →
 actionLink: /lokuswp/
 features:
-- title: Feature 1 Title
-  details: Feature 1 Description
-- title: Feature 2 Title
-  details: Feature 2 Description
-- title: Feature 3 Title
-  details: Feature 3 Description
+- title: LWBooking
+  details: Plugin Booking Online WordPress
+- title: LWCommerce
+  details: Plugin Toko Online Wordpress
+- title: LWDonation 
+  details: Plugin Donasi Online WordPress
 footer: Made by LokusWP with ❤️
 ---

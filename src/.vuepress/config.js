@@ -8,7 +8,7 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Panduan LokusWP',
+  title: 'Panduan',
   base: '/panduan/',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
