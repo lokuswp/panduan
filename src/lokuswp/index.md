@@ -1,0 +1,4 @@
+
+# Memulai
+
+Sebelum menggunakan LokusWP
