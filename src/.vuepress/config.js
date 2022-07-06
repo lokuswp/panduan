@@ -5,7 +5,7 @@ module.exports = {
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
   title: 'Panduan LokusWP',
-  base: '/',
+  base: '/panduan/',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
