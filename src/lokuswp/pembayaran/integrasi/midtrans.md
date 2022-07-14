@@ -71,3 +71,4 @@ Lalu lakukan pembayaran
 Jika anda sudah membayar, dan status transaksi otomatis berubah, maka
 situs anda sudah siap.
 
+Tambahan **
