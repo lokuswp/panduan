@@ -34,6 +34,11 @@ Jangan lupa untuk melakukan verifikasi akun sebagai usaha perorangan atau perser
 
 Anda perlu mendapatkan **Client Key** dan **Server Key** terlebih dahulu untuk dapat menghubungkan integrasi ini.
 1. buka halaman [Pengaturan -> Access Key](https://dashboard.midtrans.com/settings/config_info)
+2. masuk ke **wp-admin** website anda
+3. pilih menu LokusWP > Payments > Integration > Midtrans > Client Key & Server Key
+4. lalu simpan
+
+![](./midtransconfig.gif)
 
 ## ✅ Pengujian
 
