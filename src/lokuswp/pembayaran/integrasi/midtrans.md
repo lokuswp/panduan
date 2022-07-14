@@ -1,2 +1,2 @@
 # LokusWP 🤝 Midtrans
-gg
+Midtrans adalah
