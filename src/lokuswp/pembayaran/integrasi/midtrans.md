@@ -4,8 +4,8 @@
  <Badge text="Goal"/> Dengan Integrasi ini anda dapat menerima pembayaran melalui xendit dan dapat terkonfirmasi secara otomatis.
 
 
-## 🛒 Mendapatkan Add-on Xendit
-Dapatkan add-on xendit dengan cara membelinya di [link berikut ini](https://lokuswp.id/plugins/midtrans/) \
+## 🛒 Mendapatkan Add-on Midtrans
+Dapatkan add-on midtrans dengan cara membelinya di [link berikut ini](https://lokuswp.id/plugins/midtrans/) \
 jika  pernah membeli, anda dapat melihatnya di halaman [member area](https://member.lokuswp.id).
 
 
@@ -21,7 +21,7 @@ Buka Menu **Marketplace** lalu pilih integrasi **LokusWP 🤝 Midtrans**
 3. tempel kode lisensi di halaman input lisensi
 4. klik icon download
 
-### 2. Melakukan Pendaftaran Akun Xendit
+### 2. Melakukan Pendaftaran Akun Midtrans
 
 Anda dapat melakukan pendaftaran melalui halaman ini [Daftar Akun Midtrans](https://dashboard.midtrans.com/register).
 
@@ -32,13 +32,25 @@ Jangan lupa untuk melakukan verifikasi akun sebagai usaha perorangan atau perser
 
 ### 3. Membuat dan Memasang API Key
 
-Anda perlu mendapatkan **Client Key** dan **Server Key** terlebih dahulu untuk dapat menghubungkan integrasi ini.
-1. buka halaman [Pengaturan -> Access Key](https://dashboard.midtrans.com/settings/config_info)
-2. masuk ke **wp-admin** website anda
-3. pilih menu LokusWP > Payments > Integration > Midtrans > Client Key & Server Key
-4. lalu simpan
+Anda perlu membuat API Key terlebih dahulu untuk dapat menghubungkan integrasi ini.
+1. buka halaman [API Key](https://dashboard.xendit.co/settings/developers#api-keys)
+2. klik button **Generate secret key** > masukan nama api key name
+3. Pilih Permssion Money-in : Write
+4. Lalu klik tombol **Generate key** dan masukan password anda, lalu salin api key tadi ke
+5. masuk ke **wp-admin** website anda
+6. pilih menu LokusWP > Payments > Integration > Xendit > API Key
+7. lalu simpan
 
-![](./midtransconfig.gif)
+### 4. Mengambil dan Mengatur Webhook
+
+Anda perlu mengatur webhook callback agar konfirmasi data berjalan secara otomatis.
+1. buka halaman webhook di wp-admin
+2. lalu salin alamat webhook
+3. setelah itu buka halaman pengaturan webhook di [Midtrans](https://dashboard.midtrans.com/settings/vtweb_configuration)
+4. scroll ke bawah, lalu pilih di menu **Callback URL**
+5. setelah itu pilih **Invoices**
+6. lalu masukan url dari halaman wp-admin ke bagian Invoice Paid
+7. setelah itu klik tombol **save and test**
 
 ## ✅ Pengujian
 
@@ -58,3 +70,4 @@ Lalu lakukan pembayaran
 
 Jika anda sudah membayar, dan status transaksi otomatis berubah, maka
 situs anda sudah siap.
+
