@@ -23,7 +23,7 @@ Buka Menu **Marketplace** lalu pilih integrasi **LokusWP 🤝 Midtrans**
 
 ### 2. Melakukan Pendaftaran Akun Xendit
 
-Anda dapat melakukan pendaftaran melalui halaman ini [Daftar Akun Midtrans](https://member.lokuswp.id).
+Anda dapat melakukan pendaftaran melalui halaman ini [Daftar Akun Midtrans](https://dashboard.midtrans.com/register).
 
 
 ::: warning IMPORTANT
@@ -32,25 +32,8 @@ Jangan lupa untuk melakukan verifikasi akun sebagai usaha perorangan atau perser
 
 ### 3. Membuat dan Memasang API Key
 
-Anda perlu membuat API Key terlebih dahulu untuk dapat menghubungkan integrasi ini.
-1. buka halaman [API Key](https://dashboard.xendit.co/settings/developers#api-keys)
-2. klik button **Generate secret key** > masukan nama api key name
-3. Pilih Permssion Money-in : Write
-4. Lalu klik tombol **Generate key** dan masukan password anda, lalu salin api key tadi ke
-5. masuk ke **wp-admin** website anda
-6. pilih menu LokusWP > Payments > Integration > Xendit > API Key
-7. lalu simpan
-
-### 4. Mengambil dan Mengatur Webhook
-
-Anda perlu mengatur webhook callback agar konfirmasi data berjalan secara otomatis.
-1. buka halaman webhook di wp-admin
-2. lalu salin alamat webhook
-3. setelah itu buka halaman pengaturan webhook di [Xendit](https://dashboard.xendit.co/settings/developers#callbacks)
-4. scroll ke bawah, lalu pilih di menu **Callback URL**
-5. setelah itu pilih **Invoices**
-6. lalu masukan url dari halaman wp-admin ke bagian Invoice Paid
-7. setelah itu klik tombol **save and test**
+Anda perlu mendapatkan **Client Key** dan **Server Key** terlebih dahulu untuk dapat menghubungkan integrasi ini.
+1. buka halaman [Pengaturan -> Access Key](https://dashboard.midtrans.com/settings/config_info)
 
 ## ✅ Pengujian
 
@@ -62,13 +45,11 @@ secara otomatis, apakah sudah berjalan dengan sesuai.
 Klik Opsi Production jika akun anda sudah diverifikasi dan siap menerima uang asli\
 Mode Non Production digunakan untuk keperluan pengujian saja.
 
-Pilih Metode Pembayaran Xendit, Lalu Klik Payment
-Setelah itu KLik Bayar dengan Xendit
+Pilih Metode Pembayaran Midtrans, Lalu Klik Payment
+Setelah itu KLik Bayar dengan Midtrans
 Lalu lakukan pembayaran
 
 ### 2. Konfirmasi Otomatis
 
 Jika anda sudah membayar, dan status transaksi otomatis berubah, maka
 situs anda sudah siap.
-
-Tambahan **
