@@ -3,6 +3,7 @@ const {
 } = require('../../package')
 
 const lokuswpSidebar = require('./sidebars/lokuswp');
+const lwdonationSidebar = require('./sidebars/lwdonation');
 
 module.exports = {
   /**
@@ -41,10 +42,14 @@ module.exports = {
    * ref：https://v1.vuepress.vuejs.org/theme/default-theme-config.html
    */
   themeConfig: {
-    editLinks: false,
+    repo: 'lokuswp/panduan',
+    // Customising the header label
+    // Defaults to "GitHub"/"GitLab"/"Bitbucket" depending on `themeConfig.repo`
+    repoLabel: 'Kontribusi',
+    editLinks: true,
     docsDir: 'src',
     editLinkText: true,
-    editLinkText: 'Edit this page on GitHub',
+    editLinkText: 'Edit halaman ini melalui GitHub',
     lastUpdated: true,
     displayAllHeaders: true,
     smoothScroll: true,
@@ -64,6 +69,7 @@ module.exports = {
     ],
     sidebar: {
       '/lokuswp/': lokuswpSidebar,
+      '/lwdonation/': lwdonationSidebar,
     }
   },
 
