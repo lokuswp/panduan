@@ -24,8 +24,8 @@ module.exports = [
         children: [
             'pembayaran/integrasi/xendit',
             'pembayaran/integrasi/midtrans',
-            'pembayaran/integrasi/moota',
             'pembayaran/integrasi/ipaymu',
+            'pembayaran/integrasi/moota',
         ]
         },
 
@@ -45,6 +45,8 @@ module.exports = [
         children: [
             'notifikasi/integrasi/dripsender',
             'notifikasi/integrasi/onesender',
+            'notifikasi/integrasi/wablas',
+            'notifikasi/integrasi/woowaa',
         ]
         },
 

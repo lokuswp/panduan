@@ -1,5 +1,5 @@
 
-# Pembayaran
+# Apa itu Pembayaran
 
 Kini anda dapat menerima pembayaran dengan berabagi metode pembayaran, anda juga dapat melakukan integrasi metode pembayaran
 dengan begitu pilihan metode pembayaran bagi user akan semakin lengkap. untuk memulai cara menggunakan dan mengatur pembayaran
