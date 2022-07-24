@@ -14,7 +14,7 @@ Jika telah mendaftar, masuk ke halaman dashboard wablas dan ikut langkah berikut
 
 ### 2. Ambil Domain dan API Key
 
-Setelah melakukan pairing, kamu bisa kembali ke halaman **Device** lalu pilih menu **Edit** dan ambil domain serta api key seperti berikut ini.
+Setelah melakukan pairing, kamu bisa kembali ke halaman **Device** lalu pilih menu **Edit** dan ambil domain serta api key seperti berikut ini.pm ru
 ![Mengambil Domain dan API Key](./../assets/mengambil-credential-wablas.png)
 
 ## Install Addon Wablas
