@@ -55,11 +55,12 @@ module.exports = [
       ]
     },
     {
-      title: 'Kontribusi',
+      title: 'Development',
       collapsable: false,
       sidebarDepth: -1,
       children: [
-        'kontribusi/',
+        'development/',
+        'development/debugging',
       ]
     },
   ];
