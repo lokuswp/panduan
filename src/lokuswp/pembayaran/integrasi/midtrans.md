@@ -1,5 +1,5 @@
 
-# LokusWP 🤝 Midtrans
+# LokusWP x Midtrans
 
  <Badge text="Goal"/> Dengan Integrasi ini anda dapat menerima pembayaran melalui midtrans dan dapat terkonfirmasi secara otomatis.
 

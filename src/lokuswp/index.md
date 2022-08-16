@@ -14,7 +14,7 @@ Kamu juga hanya perlu membuat satu integrasi, untuk beberapa app plugin, dalam k
 kamu ingin integrasi payment gateway, kamu hanya perlu membuat satu, dan itu bisa digunakan
 di beberapa app plugin,
 
-### Plugin App
+### App Plugin
 Merupakan plugin tambahan untuk digitalisasi proses bisnis.
 
 - LWBooking ( Untuk Sistem Pemesanan Online di WordPress )

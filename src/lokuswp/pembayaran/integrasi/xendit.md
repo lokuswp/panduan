@@ -1,5 +1,5 @@
 
-# LokusWP 🤝 Xendit
+# LokusWP x Xendit
 
  <Badge text="Goal"/> Dengan Integrasi ini anda dapat menerima pembayaran melalui xendit dan dapat terkonfirmasi secara otomatis.
 

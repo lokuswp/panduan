@@ -1,2 +1,2 @@
 
-# LokusWP 🤝 DripSender
+# LokusWP x DripSender

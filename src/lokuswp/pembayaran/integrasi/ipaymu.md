@@ -1,5 +1,5 @@
 
-# LokusWP 🤝 iPaymu
+# LokusWP x iPaymu
 
  <Badge text="Goal"/> Dengan Integrasi ini anda dapat menerima pembayaran melalui iPaymu dan dapat terkonfirmasi secara otomatis.
 

@@ -1,2 +1,2 @@
 
-# LokusWP 🤝 Moota
+# LokusWP x Moota

@@ -16,8 +16,8 @@ module.exports = [
         'pembayaran/',
         {
           title: 'Bawaan',
-          collapsable: true,
-          sidebarDepth: 1,
+          collapsable: false,
+          sidebarDepth: -1,
           children: [
               'pembayaran/bawaan/custom-bank-transfer',
               'pembayaran/bawaan/cash',
@@ -27,7 +27,7 @@ module.exports = [
         {
         title: 'Integrasi',
         collapsable: true,
-        sidebarDepth: 1,
+        sidebarDepth: -1,
         children: [
             'pembayaran/integrasi/xendit',
             'pembayaran/integrasi/midtrans',
@@ -46,8 +46,8 @@ module.exports = [
         'notifikasi/',
       {
           title: 'Bawaan',
-          collapsable: true,
-          sidebarDepth: 1,
+          collapsable: false,
+          sidebarDepth: -1,
           children: [
               'notifikasi/bawaan/email',
               'notifikasi/bawaan/webhook',
@@ -56,11 +56,12 @@ module.exports = [
         {
         title: 'Integrasi',
         collapsable: true,
-        sidebarDepth: 1,
+        sidebarDepth: -1,
         children: [
-            'notifikasi/integrasi/dripsender',
             'notifikasi/integrasi/onesender',
+            'notifikasi/integrasi/dripsender',
             'notifikasi/integrasi/wablas',
+            'notifikasi/integrasi/starsender',
             'notifikasi/integrasi/woowaa',
         ]
         },
