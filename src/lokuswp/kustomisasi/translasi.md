@@ -1,0 +1,1 @@
+# Ganti Bahasa/Text Plugin

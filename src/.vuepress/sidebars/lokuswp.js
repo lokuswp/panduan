@@ -14,13 +14,20 @@ module.exports = [
       sidebarDepth: -1,
       children: [
         'pembayaran/',
-        'pembayaran/custom-bank-transfer',
-        'pembayaran/bank-bca',
-        'pembayaran/cash',
+        {
+          title: 'Bawaan',
+          collapsable: true,
+          sidebarDepth: 1,
+          children: [
+              'pembayaran/bawaan/custom-bank-transfer',
+              'pembayaran/bawaan/cash',
+              'pembayaran/bawaan/bank-bca',
+          ]
+        },
         {
         title: 'Integrasi',
-        collapsable: false,
-        sidebarDepth: -1,
+        collapsable: true,
+        sidebarDepth: 1,
         children: [
             'pembayaran/integrasi/xendit',
             'pembayaran/integrasi/midtrans',
@@ -37,11 +44,19 @@ module.exports = [
       sidebarDepth: -1,
       children: [
         'notifikasi/',
-        'notifikasi/email',
+      {
+          title: 'Bawaan',
+          collapsable: true,
+          sidebarDepth: 1,
+          children: [
+              'notifikasi/bawaan/email',
+              'notifikasi/bawaan/webhook',
+          ]
+      },
         {
         title: 'Integrasi',
-        collapsable: false,
-        sidebarDepth: -1,
+        collapsable: true,
+        sidebarDepth: 1,
         children: [
             'notifikasi/integrasi/dripsender',
             'notifikasi/integrasi/onesender',
@@ -51,5 +66,14 @@ module.exports = [
         },
 
       ]
+    },
+    {
+        title: 'Kustom',
+        collapsable: false,
+        sidebarDepth: -1,
+        children: [
+            'kustomisasi/',
+            'kustomisasi/translasi',
+        ]
     },
   ];

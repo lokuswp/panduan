@@ -1,7 +1,5 @@
 ---
 home: true
-heroImage: https://lokuswp.id/wp-content/uploads/2022/04/lokuswp-group-1.png
-tagline: Plugin LokusWP Serta Integrasinya
 actionText: Mulai Pelajari →
 actionLink: /lokuswp/
 features:

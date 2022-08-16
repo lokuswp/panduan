@@ -10,12 +10,12 @@ module.exports = {
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#title
    */
-  title: 'Panduan',
+  title: 'LokusWP',
   base: '/panduan/',
   /**
    * Ref：https://v1.vuepress.vuejs.org/config/#description
    */
-  description: description,
+  description: "Pelajari cara menggunakan plugin secara Optimal",
 
   /**
    * Extra tags to be injected to the page HTML `<head>`
@@ -25,7 +25,7 @@ module.exports = {
   head: [
     ['meta', {
       name: 'theme-color',
-      content: '#3eaf7c'
+      content: '#121314'
     }],
     ['meta', {
       name: 'apple-mobile-web-app-capable',

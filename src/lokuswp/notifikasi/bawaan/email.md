@@ -1,5 +1,5 @@
 
-# Mengatur Notifikasi Email
+# Email
 
  <Badge text="Goal"/> Dengan mengatur Notifikasi Email dengan benar, sistem dapat mengirimkan notifikasi email kepada user setiap ada transaksi yang masuk tanpa masuk ke folder spam.
 
