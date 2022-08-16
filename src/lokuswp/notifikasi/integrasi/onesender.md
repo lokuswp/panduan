@@ -1,5 +1,5 @@
 
-# LokusWP 🤝 OneSender
+# LokusWP x OneSender
 
 OneSender merupakan layanan notifikasi whatsapp untuk pengiriman pesan melalui whatspap secara otomatis, dengan menghubungkan whatsapp anda dengan aplikasi onesender, anda dapat mengirim pesan secara otomatis. berbeda dengan layanan whatsapp lainnya, dengan OneSender anda dapat menginstall aplikasinya di server anda sendiri.
 

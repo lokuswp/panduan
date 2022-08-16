@@ -12,7 +12,7 @@ Baca juga benefit dari punya sistem donasi sendiri ::
 
 [LWDonation - Plugin Donasi WordPress ]( https://lokuswp.id/lwdonation-plugin-donasi-wordpress )
 |
-[Demo Plugin ]( https://lokuswp.id/lwdonation-plugin-donasi-wordpress )
+[Demo Plugin ]( https://demo.lokuswp.id/lwdonation )
 
 #### Kebutuhan Sistem
 - PHP 7.4

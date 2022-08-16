@@ -1,2 +1,2 @@
 
-# LokusWP 🤝 WooWaa
+# LokusWP x WooWaa ( Soon )

@@ -1,5 +1,5 @@
 
-# LokusWP 🤝 Wablas
+# LokusWP x Wablas
 
 Wablas merupakan layanan notifikasi whatsapp untuk pengiriman pesan melalui whatspap secara otomatis, dengan menghubungkan whatsapp anda dengan aplikasi wablas, anda dapat mengirim pesan secara otomatis.
 

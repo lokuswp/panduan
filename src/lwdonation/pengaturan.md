@@ -1,14 +1,14 @@
 # Pengaturan Dasar Plugin
 
-Setelah melakukan Instalasi dan Aktifasi Plugin maka kamu bisa lanjut ke langkah
+Setelah melakukan Instalasi dan Aktifasi Plugin maka anda bisa lanjut ke langkah
 pengaturan dasar plugin, ini berguna agar plugin ini bisa menyesuaikan dengan organisasi anda.
 
-Ada **7 Langkah Wajib** yang harus kamu lakukan untuk mensetup plugin ini.
+Ada **7 Langkah Wajib** yang harus anda lakukan untuk mensetup plugin ini.
 
 ### 1. Menambah Program Donasi Pertama Anda.
 
-Disini kamu perlu menambah program donasi pertama anda, sesuai dengan tujuan website donasi ini
-dibuat, kamu bisa melihat cara menambah atau mengedit program donasi di bagian ini
+Disini anda perlu menambah program donasi pertama anda, sesuai dengan tujuan website donasi ini
+dibuat, anda bisa melihat cara menambah atau mengedit program donasi di bagian ini
 
 [Cara Membuat atau Mengedit Program ]( ../lwdonation/program/create.md)
 
@@ -16,7 +16,7 @@ dibuat, kamu bisa melihat cara menambah atau mengedit program donasi di bagian i
 
 ### 2. Melakukan Pengaturan Tampilan
 
-Kamu bisa menampilkan daftar program donasi dengan menggunakan shortcode yang tersedia di LWDonation
+Anda bisa menampilkan daftar program donasi dengan menggunakan shortcode yang tersedia di LWDonation
 Jika anda masih awam apa itu shortcode anda bisa membaca terlebih dahulu artikel ini
 
 [Apa itu Shortcode dan Cara Menggunakannya ](https://lokuswp.id/blog/apa-itu-shortcode)
@@ -29,10 +29,10 @@ dari halaman ini
 
 ::: tip
 Untuk lebih banyak variasi tampilan
-kamu bisa menambah addon [Pro ](https://lokuswp.id/plugins/lwdonation/pro) untuk LWDonation
+anda bisa menambah addon [Pro ](https://lokuswp.id/plugins/lwdonation/pro) untuk LWDonation
 :::
 
-// Gambar Dashboard Appearance
+![Dashboard Tampilan](../lwdonation/assets/appearance.png)
 
 
 ### 3. Melakukan Konfigurasi Notifikasi Email
@@ -41,13 +41,13 @@ Anda dapat melkukan konfigurasi subject yang dikirimkan ketika Notifikasi Email 
 
 ::: warning
 Terdapat Fitur Email Editor, Untuk kemudahan mengatur template email yang ingin dikirim,
-kamu bisa menambah addon [Pro ](https://lokuswp.id/plugins/lwdonation/pro) untuk LWDonation
+anda bisa menambah addon [Pro ](https://lokuswp.id/plugins/lwdonation/pro) untuk LWDonation
 :::
 
 ### 4. Melakukan Konfigurasi Template Notifikasi Whatsapp
 
-Untuk bisa menggunakan fitur notifikasi whatsapp kamu wajib menggunakan add-on notifikasi whatsapp.
-Kamu bisa membaca dulu [Apa itu Notifikasi ](../lokuswp/notifikasi/index.md)
+Untuk bisa menggunakan fitur notifikasi whatsapp anda wajib menggunakan add-on notifikasi whatsapp.
+Anda bisa membaca dulu [Apa itu Notifikasi ](../lokuswp/notifikasi/index.md)
 
 ### 5. Melakukan Konfigurasi Metode Pembayaran
 
@@ -56,12 +56,12 @@ menambah metode pembayaran baru dengan menggunakan add-on integrasi.
 
 Pelajari [Apa itu Pembayaran ]( ../lokuswp/pembayaran/index.md)
 
-### Melakukan Pengujian Donasi bagi User
+### 6. Melakukan Pengujian Donasi bagi User
 
-Sebelum website donasi kamu bisa mengudara, sangat wajib hukumnya kamu melakukan testing apakah sistem
-donasi sudah berjalan sesuai dengan keinginan kamu atau belum. untuk itu kamu perlu melakukan pengujian.
+Sebelum website donasi anda bisa mengudara, sangat wajib hukumnya anda melakukan testing apakah sistem
+donasi sudah berjalan sesuai dengan keinginan anda atau belum. untuk itu anda perlu melakukan pengujian.
 
-Kamu bisa mengikuti daftar berikut ini jika sudah sesuai ekspektasi maka website donasi kamu siap untuk dijalankan
+Anda bisa mengikuti daftar berikut ini jika sudah sesuai ekspektasi maka website donasi anda siap untuk dijalankan
 
 | Aksi                                       | Ekspektasi                                        |
 |:-------------------------------------------|:--------------------------------------------------|
@@ -75,10 +75,12 @@ Kamu bisa mengikuti daftar berikut ini jika sudah sesuai ekspektasi maka website
 | User melakukan Pembayaran                  | -                                                 |
 | Admin mengganti status Laporan dibayar     | ✔️ Mendapatkan Notifikasi Donasi Berhasil         |
 
-### Melihat Dashboard Laporan
+### 7. Melihat Dashboard Laporan
 
-Kamu bisa memantau donasi yang masuk di halaman dashboard laporan donasi kamu. disini kamu bisa konfirmasi donasi ( **Mengganti Status menjadi Sudah Di Bayar** ) 
+Anda bisa memantau donasi yang masuk di halaman dashboard laporan donasi anda. disini anda bisa konfirmasi donasi ( **Mengganti Status menjadi Sudah Di Bayar** ) 
 Mengedit, dan melakukan Eksport atau Import data.
+
+![Dashboard Tampilan](../lwdonation/assets/dashboard.png)
 
 ::: warning
 Anda bisa membuat proses konfirmasi donasi ini menjadi otomatis tanpa perlu melakukan pengecekan ke rekening anda
