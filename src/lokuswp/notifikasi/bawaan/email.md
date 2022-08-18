@@ -13,10 +13,10 @@
 
 Sebelum mengatur SMTP, ada baiknya kita mengetes terlebih dahulu apakah, website WordPress kita dapat mengirimkan notifikasi email
 jika sudah dapat mengirimkan email tanpa masuk spam, anda tidak perlu melakukan konfigurasi\
-( Fitur Ini biasa terdapat di paket hosting yang lumayan mahal )
+( Fitur Ini biasa terdapat di paket hosting yang agak mahal )
 
 Baca : [Cara menguji Notifikasi Email di WordPress ](https://lokuswp.id/blog/cara-menguji-notifikasi-email-di-wordpress/)
- #### Konfigurasi SMTP Google di LokusWP
+ ### Konfigurasi SMTP Google di LokusWP
  
  Agar Notifikasi Email anda tidak masuk kespam, salah satu SMTP yang gratis adalah dari google.
  anda bisa mengatur SMTP tanpa plugin tambahan. caranya adalah sebagai berikut ::
@@ -35,8 +35,8 @@ Baca : [Cara menguji Notifikasi Email di WordPress ](https://lokuswp.id/blog/car
  ### Mengatur Template Notifikasi
 
  Q : Saya ingin mengatur template notifikasi, dimana saya bisa mengatur ?\
- A : Untuk Editor notifikasi email anda perlu menggunakan versi Pro dari setiap app\
+ A : Untuk Editor notifikasi email anda perlu menggunakan versi Pro dari setiap App Plugin\
  seperti **LWCommerce Pro** atau **LWDonation Pro**
 
- Notifikasi Email dibuat untuk masing-masing app dan juga status.
- Dengan addon tersebut anda bisa mudah merubah template notifikasi tanpa perlu memahami coding.
+ Notifikasi Email dibuat untuk masing-masing app plugin dan juga status.
+ Dengan addon tersebut anda bisa mudah merubah template notifikasi tanpa perlu koding.

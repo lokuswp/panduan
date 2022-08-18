@@ -28,4 +28,16 @@ atau metode pembayaran baru dari payment gateway
 - LokusWP x OneSender ( Notifikasi Whatsapp Otomatis )
 - LokusWP x Midtrans ( Metode Pembayaran VA, CC, Alfamart, Indomart )
 
-dan masih banyak lagi integrasi yang akan tersedia
+dan masih banyak lagi integrasi yang akan tersedia.
+
+#### Kebutuhan Sistem
+- PHP 7.4
+- Minimal WordPress 6.0
+
+#### Rekomendasi Plugin Tambahan
+- Elementor ( Visual Page Builder )
+- Oxygen ( Visual Page Builder )
+
+#### Rekomendasi Tema
+- Generate Press
+- Hello Elementor
