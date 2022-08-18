@@ -11,4 +11,4 @@ test hasil translasinya, dengan cara melakukan pengedit file translasinya.
 
 Untuk selengkapnya kamu bisa cek artikel berikut ini
 
-[Apa itu Translasi di WordPress ](https://lokuswp.id/blog)
+[Cara Mengganti Teks Bawaan Tema/Plugin WordPress ](https://lokuswp.id/blog/cara-mengganti-teks-bawaan-tema-plugin-wordpress/)

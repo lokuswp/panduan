@@ -1,7 +1,6 @@
+# Cara Kustom LWDonation
 
-# Cara Kustomisasi 
+Anda dapat melakukan kustomisasi pada plugin LWDonation,
+berikut ini beberapa hal yang didukung untuk dilakukan kustomisasi.
 
-Anda dapat melakukan Kustomisasi pada Plugin seperi
-
-### Mengganti Tulisan Bawaan pada Plugin
-### Menggganti Bahasa Plugin
+- [Ganti Text/Tulisan di Plugin]( ../../lokuswp/kustomisasi/translasi.md)

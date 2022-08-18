@@ -40,7 +40,7 @@ module.exports = [
       ]
     },
     {
-      title: 'Add-ons',
+      title: 'Addon',
       collapsable: false,
       sidebarDepth: -1,
       children: [
@@ -48,7 +48,7 @@ module.exports = [
       ]
     },
     {
-      title: 'Customize',
+      title: 'Kustom',
       collapsable: false,
       sidebarDepth: -1,
       children: [
