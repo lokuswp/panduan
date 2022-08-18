@@ -6,7 +6,7 @@ Jika sudah terinstall, maka akan muncul menu Notifikasi Whatsapp di LokusWP dan 
 
 ### Menginstall Addon Notifikasi
 
-![Marketplace Addon](../assets/marketplaceAddon.png)
+![Marketplace Addon](../../lwdonation/assets/marketplaceAddon.png)
 
 ::: warning
 Notifikasi Whatsapp ini memerlukan biaya tambahan, anda perlu membayar ke vendor yang anda gunakan integrasi,
@@ -20,6 +20,6 @@ kamu bica baca di Pengaturan Notifikasi LokusWP.
 
 Kamu bisa mengatur konigurasi notifikasi, berikut ini adalah contoh konfigurasi notifikasi whatsapp dengan OneSender
 
-![Marketplace Addon](../assets/setupOnesender.png)
+![Marketplace Addon](../../lwdonation/assets/setupOneSender.png)
 
 Untuk panduan lebih lengkap kamu bisa baca [Apa itu Notifikasi]( ../../lokuswp/notifikasi/)

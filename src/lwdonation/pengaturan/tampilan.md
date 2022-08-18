@@ -7,7 +7,7 @@ Jika anda masih awam apa itu shortcode anda bisa membaca terlebih dahulu artikel
 [Apa itu Shortcode dan Cara Menggunakannya ](https://lokuswp.id/blog/apa-itu-shortcode)
 
 
-![Dashboard Tampilan](../assets/shortcodeElementor.png)
+![Dashboard Tampilan](../../lwdonation/assets/shortcodeElementor.png)
 
 Anda juga bisa mengkombinasikan plugin ini dengan Visual Builder yang anda suka, ataupun
 menampilkannya di halaman tema yang sudah anda punya.
@@ -15,7 +15,7 @@ menampilkannya di halaman tema yang sudah anda punya.
 Anda juga bisa menonaktifkan dan mengaktifkan tampilan atau fitur-fitur tertentu
 dari halaman ini
 
-![Dashboard Tampilan](../assets/appearance.png)
+![Dashboard Tampilan](../../lwdonation/assets/appearance.png)
 
 ::: tip
 Untuk lebih banyak variasi tampilan

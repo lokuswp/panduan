@@ -32,7 +32,7 @@ Untuk lebih banyak variasi tampilan
 anda bisa menambah addon [Pro ](https://lokuswp.id/plugins/lwdonation/pro) untuk LWDonation
 :::
 
-![Dashboard Tampilan](../lwdonation/assets/appearance.png)
+![Dashboard Tampilan](../../lwdonation/assets/assets/appearance.png)
 
 
 ### 3. Melakukan Konfigurasi Notifikasi Email
