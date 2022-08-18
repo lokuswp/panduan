@@ -18,4 +18,4 @@ dan ada juga yang berbayar menggunakan [Mailketing ](https://bagil.ink/aff?affid
 Jika anda sudah punya SMTP anda bisa melakukan konfigurasi di halaman<br>
 **LokusWP > Notification > Email > Settings**
 
-![Setup Email](../../lwdonation/assets/setupEmail.png)
+![Setup Email](./../assets/setupEmail.png)

@@ -10,7 +10,7 @@ Di Halaman ini kamu bisa
 2. Mengatur template Follow Up Whatsapp
 3. Mengatur Nominal Donasi
 
-![Tambah Program](../../lwdonation/assets/pengaturanUmum.png)
+![Tambah Program](./../assets/pengaturanUmum.png)
 
 
 ### Data Organisasi / Lembaga

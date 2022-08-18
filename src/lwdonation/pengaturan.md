@@ -32,7 +32,7 @@ Untuk lebih banyak variasi tampilan
 anda bisa menambah addon [Pro ](https://lokuswp.id/plugins/lwdonation/pro) untuk LWDonation
 :::
 
-![Dashboard Tampilan](../../lwdonation/assets/assets/appearance.png)
+![Dashboard Tampilan](./assets/appearance.png)
 
 
 ### 3. Melakukan Konfigurasi Notifikasi Email
@@ -80,7 +80,7 @@ Anda bisa mengikuti daftar berikut ini jika sudah sesuai ekspektasi maka website
 Anda bisa memantau donasi yang masuk di halaman dashboard laporan donasi anda. disini anda bisa konfirmasi donasi ( **Mengganti Status menjadi Sudah Di Bayar** ) 
 Mengedit, dan melakukan Eksport atau Import data.
 
-![Dashboard Tampilan](../lwdonation/assets/dashboard.png)
+![Dashboard Tampilan](./assets/dashboard.png)
 
 ::: warning
 Anda bisa membuat proses konfirmasi donasi ini menjadi otomatis tanpa perlu melakukan pengecekan ke rekening anda
