@@ -75,6 +75,7 @@ module.exports = [
         children: [
             'kustomisasi/',
             'kustomisasi/translasi',
+            'kustomisasi/custom-fee',
         ]
     },
   ];
