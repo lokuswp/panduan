@@ -40,6 +40,14 @@ Anda perlu mendapatkan **Client Key** dan **Server Key** terlebih dahulu untuk d
    ![](assets/midtrans-settings.gif)
 4. lalu simpan
 
+### 4. Set Up Konfirmasi Otomatis
+
+1. masuk ke wp-admin website anda
+2. pilih menu LokusWP > Payments > Integration > Midtrans > lalu salin/copy Notification URL
+3. Buka halaman [konfigurasi](https://dashboard.midtrans.com/settings/vtweb_configuration) di Dashboard Midtrans
+4. Paste Notification URL tadi pada field **Payment Notification URL***
+
+
 
 ## ✅ Pengujian
 
