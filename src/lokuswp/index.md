@@ -1,16 +1,16 @@
 
 # Pengenalan
 
-LokusWP merupakan plugin backbone transaksi untuk WordPress, plugin ini dibuat
+LokusWP merupakan plugin backbone untuk WordPress, plugin ini dibuat
 sebagai plugin utama untuk keperluan integrasi dan juga transaksi.
 
 Turunan dari plugin ini kami menyebutnya app plugin. app plugin sendiri memiliki fungsi sesuai dengan bisnis model yang ada, 
-untuk digitalisasi usaha seperti commerce untuk berjualan online, donation untuk donasi online, dan booking untuk reservasi online.
+seperti commerce untuk berjualan online, donation untuk donasi online, dan booking untuk reservasi online.
 
-Plugin ini bertindak seperti tulang punggung artinya wajib diinstall agar fitur dari
-app plugin, integrasi bisa berjalan sesuai dengan yang diinginkan.
+Plugin ini bertindak seperti tulang punggung artinya plugin ini akan menjembatani setiap proses transaksi
+dari app plugin, dan juga membuat integrasi menjadi lebih mudah.
 
-Kamu juga hanya perlu membuat satu integrasi, untuk beberapa app plugin, dalam kasus ini
+Kamu juga hanya perlu menggunakan satu integrasi, untuk beberapa app plugin, dalam kasus ini
 kamu ingin integrasi payment gateway, kamu hanya perlu menginstall satu, dan itu bisa digunakan
 di semua app plugin.
 

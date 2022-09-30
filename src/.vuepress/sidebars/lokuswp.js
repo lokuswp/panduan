@@ -35,7 +35,15 @@ module.exports = [
             'pembayaran/integrasi/moota',
         ]
         },
-
+      {
+          title: 'Pro ( Addon )',
+          collapsable: true,
+          sidebarDepth: -1,
+          children: [
+              'pembayaran/pro/static-qris',
+              'pembayaran/pro/bank-transfer-generator',
+          ]
+      },
       ]
     },
     {
