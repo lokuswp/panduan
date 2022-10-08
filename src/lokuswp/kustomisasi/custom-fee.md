@@ -14,7 +14,7 @@ ataupun saat transaksi barang. ikut langkahnya berikut ini
 
 ``` php
 add_action("init", function(){
-    lwp_add_transaction_extras( "admin-fee", '', __( "Biaya Admin", "lwdonation" ),2000, "+", "fixed", "total" );
+    lwp_add_transaction_extras( "admin-fee", __( "Biaya Admin",'',  "lwdonation" ),2000, "+", "fixed", "total" );
 });
 ```
 

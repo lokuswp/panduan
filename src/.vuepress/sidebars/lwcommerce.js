@@ -18,7 +18,7 @@ module.exports = [
       ]
     },
     {
-      title: 'Order',
+      title: 'Pesanan',
       collapsable: false,
       sidebarDepth: -1,
       children: [

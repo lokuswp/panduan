@@ -12,6 +12,12 @@ Atau anda dapat menambahnya dengan menginstall Addon Pembayaran yang tersedia.
 - [Bank Transfer - BCA](.,/../bank-bca.md)
 - [Cash](.,/../integrasi/cash.md)
 
+## Metode Pembayaran Pro
+Metode ini hanya tersedia pada addon app plugin
+- Addon Pro untuk LWDonation
+
+- [Static QRIS](.,/../pro/static-qris.md)
+- [Bank Transfer Generator](.,/../pro/bank-transfer-generator.md)
 
 ## Integrasi Metode Pembayaran
 Tambah Metode pembayaran lebih banyak lagi, dengan integrasi payment gateway
@@ -26,3 +32,5 @@ Tambah Metode pembayaran lebih banyak lagi, dengan integrasi payment gateway
 Diperlukan untuk konfirmasi transaksi secara otomatis
 
 - [Moota](.,/../integrasi/xendit.md)
+
+
