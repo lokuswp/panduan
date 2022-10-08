@@ -2,7 +2,7 @@ name: Continuous Deployment
 
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
 
 jobs:
 
@@ -30,4 +30,4 @@ jobs:
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
           local-dir: ./src/.vuepress/dist/
-          server-dir: ./webroot/ROOT/panduan/
+          server-dir: ./
