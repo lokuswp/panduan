@@ -1,5 +1,5 @@
 
 # Pembayaran
 
-Plugin Donasi WordPress untuk Keperluan Menggalang Dana secara Online di website WordPress anda sendiri.
-
+Untuk Pengaturan Metode Pembayaran kamu bisa mengaturnya dengan Membaca Panduan <br>
+[Mengatur Pembayaran di LokusWP](../../lokuswp/pembayaran/)

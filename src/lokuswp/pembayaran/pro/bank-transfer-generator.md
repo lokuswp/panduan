@@ -1,5 +1,5 @@
 
-# Static QRIS
+# Bank Transfer Generator
 
  <Badge text="Goal"/> Dengan Integrasi ini anda dapat menerima pembayaran melalui xendit dan dapat terkonfirmasi secara otomatis.
 

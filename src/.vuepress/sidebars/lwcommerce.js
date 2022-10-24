@@ -15,6 +15,7 @@ module.exports = [
       children: [
         'produk/',
         'produk/create',
+          'produk/import'
       ]
     },
     {
@@ -47,7 +48,7 @@ module.exports = [
       ]
     },
     {
-      title: 'Customize',
+      title: 'Kustomisasi',
       collapsable: false,
       sidebarDepth: -1,
       children: [
@@ -55,7 +56,7 @@ module.exports = [
       ]
     },
     {
-      title: 'Development',
+      title: 'Pengembangan',
       collapsable: false,
       sidebarDepth: -1,
       children: [

@@ -17,7 +17,7 @@ Baca juga benefit dari punya sistem donasi sendiri ::
 #### Kebutuhan Sistem
 - PHP 7.4
 - Minimal WordPress 6.0
-- Minimal LokusWP 0.1
+- Minimal LokusWP 0.2
 
 #### Rekomendasi Plugin Tambahan
 - Elementor ( Visual Page Builder )

@@ -13,9 +13,7 @@ Atau anda dapat menambahnya dengan menginstall Addon Pembayaran yang tersedia.
 - [Cash](.,/../integrasi/cash.md)
 
 ## Metode Pembayaran Pro
-Metode ini hanya tersedia pada addon app plugin
-- Addon Pro untuk LWDonation
-
+Metode ini hanya tersedia pada **Addon Pro** LWDonation dan LWCommerce
 - [Static QRIS](.,/../pro/static-qris.md)
 - [Bank Transfer Generator](.,/../pro/bank-transfer-generator.md)
 

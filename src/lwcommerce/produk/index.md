@@ -5,7 +5,7 @@ Untuk dapat berjualan anda perlu membuat produk terlebih dahulu, terlebih dahulu
 Produk ini nantinya akan ditampilkan di halaman buatan plugin lwcommerce `/products`
 atau kamu bisa menampilkannya melalui shortcode dan mengkombinasikannya dengan elementor
 
-[Cara Menggunakan Shortcode di Elementor ]( https://blog.lokuswp.id )
+[[Soon] Cara Menggunakan Shortcode di Elementor ]( https://blog.lokuswp.id )
 
 ### Produk
 - Judul :: isi dengan judul yang sekiranya mudah dicari di pencarian google, sesuai kata kunci

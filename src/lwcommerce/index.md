@@ -21,7 +21,7 @@ dan tanpa potongan dari pihak ketiga, karena kamu sendiri yang mengurus tokonya
 #### Kebutuhan Sistem
 - PHP 7.4
 - Minimal WordPress 6.0
-- Minimal LokusWP 0.1
+- Minimal LokusWP 0.2
 
 #### Rekomendasi Plugin Tambahan
 - Elementor ( Visual Page Builder )
