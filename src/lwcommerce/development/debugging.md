@@ -21,7 +21,7 @@ melakukan test sambil debugging pada konteks checkout saja.
 
   ![Install Plugin](../assets/purgedebug.jpg)
 
-2. Lalu lakukan pengetesan konteks ( Contoh : Melakuakan Checkout )
+2. Lalu lakukan pengetesan konteks ( Contoh : Saat Melakukan  Checkout )
 3. kita bisa melihat bahwa error akan muncul sesuai dengan konteks yang kita lakukan 
 4. kirim log error ke developer
 
