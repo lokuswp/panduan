@@ -11,7 +11,7 @@ Addon yang membantu anda untuk berjualan lebih Mudah, Pro, dan dapat dipasarkan 
 - Produk Variasi lebih Prod
 - Checkout Lebih Pro
 
-[Pelajari Lebih Lanjut ]( https://blog.lokuswp.id )
+[Pelajari Lebih Lanjut ]( ../pro/index.md )
 
 [//]: # (### Biteship <Badge text="Premium" type="warning"/>)
 

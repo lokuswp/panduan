@@ -64,4 +64,15 @@ module.exports = [
         'development/debugging',
       ]
     },
+    {
+        title: 'Pro',
+        collapsable: false,
+        sidebarDepth: -1,
+        children: [
+            'pro/',
+            'pro/marketing',
+            'pro/product',
+            'pro/checkout',
+        ]
+    },
   ];

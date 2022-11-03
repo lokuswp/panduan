@@ -5,6 +5,7 @@ const {
 const lokuswpSidebar = require('./sidebars/lokuswp');
 const lwdonationSidebar = require('./sidebars/lwdonation');
 const lwcommerceSidebar = require('./sidebars/lwcommerce');
+// const lwcommerceProSidebar = require('./sidebars/lwcommercePro');
 
 module.exports = {
   /**
@@ -72,6 +73,7 @@ module.exports = {
       '/lokuswp/': lokuswpSidebar,
       '/lwdonation/': lwdonationSidebar,
       '/lwcommerce/': lwcommerceSidebar,
+      // '/lwcommerce/pro/': lwcommerceProSidebar,
     }
   },
 
